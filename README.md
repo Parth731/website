@@ -1,4 +1,4 @@
-# Personal website and all over personal experice
+# Personal Website
 
 This is the sourcecode of my personal website.
 
